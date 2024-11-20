@@ -8,6 +8,9 @@ Let's explore creative coding and "live coding"! In this lab we'll be using [Hyd
 All credit to the creator of hydra, [olivia](https://ojack.xyz/), and the hydra community.
 
 If you're interested in learning more about live coding, check out [this guide](https://static.livecodingbook.toplap.org/books/livecoding.pdf).
+
+lecture notes: https://tinyurl.com/penn-lets-get-creative
+three.js docs: https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
          
 ## Lab Puzzles:
 The goal of each puzzle will be to replicate the look of each puzzle’s image by exploring the hydra api.
